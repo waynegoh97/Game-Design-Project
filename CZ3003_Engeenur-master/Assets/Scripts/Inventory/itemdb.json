@@ -1,9 +1,0 @@
-{
-    "a" :
-    {
-        "Name" : "aaa",
-        "Type" : "healingPotion",
-        "Quantity" : 2,
-        "ValueOfItem" : 300
-    }
-}
