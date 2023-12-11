@@ -1,0 +1,27 @@
+var class_twity_1_1_data_models_1_1_core_1_1_tweet_user =
+[
+    [ "description", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a5144f54e7d860b2f19b4805ff5e4a3dd", null ],
+    [ "favourites_count", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a241a28157a469c2da31da16b8c39ffb6", null ],
+    [ "follow_request_sent", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a53b5651c0aa549e32196dd4c62f21005", null ],
+    [ "followers_count", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a549bccc0d03f95b7fb3674e63db673f9", null ],
+    [ "following", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a306aa2edb3d82002e9700e276ed80f9e", null ],
+    [ "friends_count", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#acefb47cb675c755075dbd9582e249452", null ],
+    [ "id", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a90f6fb3ce0fb1bdc3b40cb7e07bcbf59", null ],
+    [ "id_str", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#af2af49973d0f1b8a8695ff6bb7d07aaa", null ],
+    [ "listed_count", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a9e445532a6c6b56ddadc1b7b882736ea", null ],
+    [ "location", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a6e34f39c14080725b1f744d9b36c7625", null ],
+    [ "name", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#aff11ce1d834d6f12ad68c17d7bdfa2f1", null ],
+    [ "profile_background_color", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a39e282844e570b349735c63155d12d87", null ],
+    [ "profile_background_image_url", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#aa62572503d7e9fad290dd5676117aa9b", null ],
+    [ "profile_background_image_url_https", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a66a235742747ac1a18ae7ad019e71a0f", null ],
+    [ "profile_background_tile", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a66929a81edfe962144fa366c2328f8ce", null ],
+    [ "profile_banner_url", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#aed3f06bde602d318b496afc063020d8c", null ],
+    [ "profile_image_url", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#ac75391f09fc3c6163259659532ce35ae", null ],
+    [ "profile_text_color", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a8da946bd5c549db45b43040d648a4c33", null ],
+    [ "profile_user_background_image", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#abc51b6525f6673f9cee0363e4446aab9", null ],
+    [ "screen_name", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#ab1b4be20d96f81b56713ec62b0ecfdfd", null ],
+    [ "status", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a7d4dd2e566dbc787122275f33d0a7d6e", null ],
+    [ "statuses_count", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#ae40cf6df4011a817bf1499d0b4fb7e59", null ],
+    [ "url", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#a3cd7d38d1f02323d75ac6eaa92f6aca0", null ],
+    [ "verified", "class_twity_1_1_data_models_1_1_core_1_1_tweet_user.html#afd2e910fdc4cefdd8cbcf5d583837654", null ]
+];

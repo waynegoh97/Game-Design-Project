@@ -1,0 +1,25 @@
+var class_tr_course_view_model =
+[
+    [ "Cancel", "class_tr_course_view_model.html#a412c9d9d2e0a7f1b83270aac39536965", null ],
+    [ "Check", "class_tr_course_view_model.html#a457bfb93c6fa416d9de1e18a9ae16c68", null ],
+    [ "CheckCourseExist", "class_tr_course_view_model.html#a75fbfedae2f1b4b00e899137d71abc42", null ],
+    [ "CheckItemDelName", "class_tr_course_view_model.html#a35a5958e644b9d758b167660ae5b2ede", null ],
+    [ "ClickClose", "class_tr_course_view_model.html#a370a1f8707adfa966bef7b42b3bfa85c", null ],
+    [ "ClickCourse", "class_tr_course_view_model.html#ad0d7bb38bdf4b26292854614e0617a01", null ],
+    [ "CreateCourse", "class_tr_course_view_model.html#a179ca8afe723385ab2d2b7a54a4d6509", null ],
+    [ "DeleteCourse", "class_tr_course_view_model.html#a342d449810374f41e964755b7b264465", null ],
+    [ "InvokeCourseCheckExist", "class_tr_course_view_model.html#acb5d855158d8136772d2514508d8ffeb", null ],
+    [ "PostingCourse", "class_tr_course_view_model.html#a262cea826521ef91c2163eec2c74ffe6", null ],
+    [ "Read", "class_tr_course_view_model.html#a78f36dcd43e82aa93ca6a74ba54ed7f0", null ],
+    [ "WakeUp", "class_tr_course_view_model.html#ab9abc190a5cb42a803e4d842370cb955", null ],
+    [ "chk", "class_tr_course_view_model.html#a4d07f635d7f089b5b73670ea1c15de6e", null ],
+    [ "courseInput", "class_tr_course_view_model.html#af8aa8d0fb0c0b79d8cf7c3a2bb84593e", null ],
+    [ "courseKey", "class_tr_course_view_model.html#afb27aa35a10f16fb4615ebc25d6e09d4", null ],
+    [ "created", "class_tr_course_view_model.html#aa58a55948b112e913dd86d8cac7679d6", null ],
+    [ "enrollViewModel", "class_tr_course_view_model.html#ae911f2a77ec8429eec7c93bdcd3642d6", null ],
+    [ "itemParent", "class_tr_course_view_model.html#a800363c1da251ab96824f18191cea6e2", null ],
+    [ "locks", "class_tr_course_view_model.html#a65c7587a565eb4670a4a20ff0a663e30", null ],
+    [ "teacherName", "class_tr_course_view_model.html#ae2aed1ca26cf6da68f0ede6250de3a22", null ],
+    [ "UIController", "class_tr_course_view_model.html#ac80a7d1ffd2a60be9c811b6d1972b57a", null ],
+    [ "userName", "class_tr_course_view_model.html#ad805ba1eb59edfaf7911133782832074", null ]
+];

@@ -1,0 +1,27 @@
+var class_tr_special_lvl_view_model =
+[
+    [ "CheckItemDelName", "class_tr_special_lvl_view_model.html#abe65f2e054f9299f664a61e498239a02", null ],
+    [ "CheckLvlExist", "class_tr_special_lvl_view_model.html#a9dc9d6ca1cafc0a1b5fb76ff2818d886", null ],
+    [ "ClickLevel", "class_tr_special_lvl_view_model.html#a39028901f7ddebd7a22bd33d057c1879", null ],
+    [ "closeSpecialLvl", "class_tr_special_lvl_view_model.html#a14b116987d893dd3a66a2638c816a190", null ],
+    [ "CreateLvl", "class_tr_special_lvl_view_model.html#a83ffb2a54a37159b1a7cd6437fd6ccd5", null ],
+    [ "DeleteCourseLvl", "class_tr_special_lvl_view_model.html#a5c85c26df11f2afa666cd8db6d6fc7dd", null ],
+    [ "DownLvlNoInput", "class_tr_special_lvl_view_model.html#a005f5c96dc7bf32113d3f731d245bf8d", null ],
+    [ "InvokeLvlCheckExist", "class_tr_special_lvl_view_model.html#a4bf2ad42d77d69b2aa321affc1648fef", null ],
+    [ "OpenFormCreate", "class_tr_special_lvl_view_model.html#a8132da1e0cd9841d80a3d9527e02e712", null ],
+    [ "PostingLvl", "class_tr_special_lvl_view_model.html#a28883094ea64195c9cfd2e819786ca18", null ],
+    [ "Read", "class_tr_special_lvl_view_model.html#ac1682cba366f78f44de8e8aa17252841", null ],
+    [ "UpLvlNoInput", "class_tr_special_lvl_view_model.html#a77ed116aece8464a46c2745f9d9d5130", null ],
+    [ "WakeUp", "class_tr_special_lvl_view_model.html#adef44e4a20596de510422a9aa4dfa20a", null ],
+    [ "ans", "class_tr_special_lvl_view_model.html#a48f3391efb5388a484606fc7b32c4330", null ],
+    [ "courseName", "class_tr_special_lvl_view_model.html#ad453466dd4d2445a2764f789d3d0d35d", null ],
+    [ "created", "class_tr_special_lvl_view_model.html#aa0d2de069133f6da961f7e67860806d9", null ],
+    [ "enrollViewModel", "class_tr_special_lvl_view_model.html#a0f2e83c06417a20e87cc61937cdcecba", null ],
+    [ "itemParent", "class_tr_special_lvl_view_model.html#adfd065c852a49d29bb2b36635bb3ab30", null ],
+    [ "key", "class_tr_special_lvl_view_model.html#a11922cd463a58f278cadaa90a4b26454", null ],
+    [ "lvlNoIF", "class_tr_special_lvl_view_model.html#a7adffede1d47ffeaa78e4f7237634566", null ],
+    [ "qns", "class_tr_special_lvl_view_model.html#a8e4fea152f6e97c22fb8f7bc172cc7c5", null ],
+    [ "trQnViewModel", "class_tr_special_lvl_view_model.html#a13f1f2bf0b088646d64a29df7dc8035e", null ],
+    [ "UIController", "class_tr_special_lvl_view_model.html#a7d488253b8d289405a45b5827527c5a0", null ],
+    [ "userName", "class_tr_special_lvl_view_model.html#a65bf74047939b1d87fd140e854892f1b", null ]
+];

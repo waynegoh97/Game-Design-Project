@@ -1,0 +1,25 @@
+{
+    "InventoryItems" :
+    {
+        "items" : [
+            {
+                "Name" : "aaa",
+                "Type" : "healingPotion",
+                "Quantity" : 2,
+                "ValueOfItem" : 300
+            },
+            {
+                "Name" : "ccz",
+                "Type" : "weapon",
+                "Quantity" : 4,
+                "ValueOfItem" : 400
+            },
+            {
+                "Name" : "ozz",
+                "Type" : "weapon",
+                "Quantity" : 1,
+                "ValueOfItem" : 100
+            }
+        ]
+    }
+}
